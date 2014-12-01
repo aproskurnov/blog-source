@@ -1,0 +1,42 @@
+body{
+	background-color: #E5E5E5;
+}
+a{
+	text-decoration:none;
+	color: blue;
+}
+a:visited{
+	color: blue;
+}
+pre{
+	color: black;
+
+}
+
+.content{
+	background-color: #FFFFFF;
+	font: 13px Roboto,arial,sans-serif;
+	margin: 50px auto;
+	max-width: 1000px;
+	padding: 50px;
+}
+
+.logo{
+	line-height: 2px;
+	padding: 10px;
+	border-bottom: 1px solid #E5E5E5;
+	font-size: 18px;
+}
+
+.code-indent{
+	text-indent: 20px;
+}
+.posts{
+	margin-top: 30px;
+}
+.post-content{
+	padding: 10px 40px;
+}
+.prettyprint{
+	padding: 10px;
+}
