@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Illegal token при редактировании js файла на vagrant
+post_title: Illegal token при редактировании js файла на vagrant
 description: Фиксим баг virtualbox'a "Unexpected token ILLEGAL"
 keywords: устраняем, лечим, проблема, js, virtualbox, token, illegal, shared, папки, монтирование, sendfile, nginx, apache, proskurnov, aproskurnov
 ---

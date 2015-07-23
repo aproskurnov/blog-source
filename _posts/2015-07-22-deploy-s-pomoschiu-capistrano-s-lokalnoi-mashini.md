@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Настраиваем деплой с помощью capistrano с локальной машины на примере машины с установленной ubuntu
+post_title: Настраиваем деплой с помощью capistrano с локальной машины на примере машины с установленной ubuntu
 description: Настраиваем локальную машину для деплоя на сервер разработки с помощью capistrano
 keywords: настраиваем, capistrano, git, deploy, ssh-keygen, ubuntu, ssh-copy-id, proskurnov, aproskurnov
 ---

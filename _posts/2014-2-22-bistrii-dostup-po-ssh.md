@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Быстрый доступ по SSH
+post_title: Быстрый доступ по SSH
 description: Подключение к серверу по ssh без ввода пароля
 keywords: alias, ssh, ssh-keygen, ssh-copy-id, проскурнов, ключи, ключ, proskurnov, aproskurnov 
 ---

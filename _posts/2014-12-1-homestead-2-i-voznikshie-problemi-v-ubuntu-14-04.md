@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Homestead 2.0 и возникшие проблемы в ubuntu 14.04
+post_title: Homestead 2.0 и возникшие проблемы в ubuntu 14.04
 description: Решаем проблему с выполнением homestead edit на ubuntu 14.04
 keywords: ubuntu, homestead, laravel, edit, не открывается, descriptor, reffering, proskurnov, aproskurnov
 ---

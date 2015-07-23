@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Лечим хоткеи в phpstorm при русской раскладке ubuntu 13.10(14.04, 14.10, 15.04)
+post_title: Лечим хоткеи в phpstorm при русской раскладке ubuntu 13.10(14.04, 14.10, 15.04)
 description: Фиксим хоткеи в phpstorm
 keywords: фиксим, лечим, проблема, русская, раскладка, layout, phpstorm, горячие, клавиши, хоткейс, hotkeys, ubuntu, fix, proskurnov, aproskurnov
 ---

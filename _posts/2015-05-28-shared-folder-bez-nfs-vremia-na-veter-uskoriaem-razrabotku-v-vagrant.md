@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shared folder без nfs - время на ветер, ускоряем разработку в vagrant
+post_title: Shared folder без nfs - время на ветер, ускоряем разработку в vagrant
 description: Увеличиваем скорость доступа к файловой системе в vagrant
 keywords: ubuntu, vagrant, nfs, настройка, конфиг, виртуальная машина, скорость, ускоряем, proskurnov, aproskurnov
 ---
